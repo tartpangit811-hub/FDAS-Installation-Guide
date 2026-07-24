@@ -1,5 +1,9 @@
 # FDAS Components
 
+![FDAS System Overview](Images/fdas-system-overview.png)
+
+*Basic overview of Fire Detection and Alarm System components.*
+
 ## 1. Fire Alarm Control Panel (FACP)
 
 The Fire Alarm Control Panel is the main control unit of the FDAS. It receives signals from detectors and activates alarm devices during fire events.
