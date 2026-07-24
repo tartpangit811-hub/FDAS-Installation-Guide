@@ -1,67 +1,64 @@
-# Complete FDAS Installation Guide
+# Complete Fire Detection and Alarm System (FDAS) Installation Guide
 
 ## Introduction
 
-This guide contains the basic process of Fire Detection and Alarm System (FDAS) installation, testing, and maintenance.
+This guide provides basic knowledge and procedures for Fire Detection and Alarm System (FDAS) installation, testing, troubleshooting, and maintenance.
 
-## FDAS Overview
+It is designed as a reference guide for technicians, installers, and beginners who want to understand the basic FDAS workflow.
 
-Fire Detection and Alarm System is a safety system designed to detect fire, smoke, or heat and provide warning through alarm devices.
+---
 
-## Main FDAS Components
+# FDAS Overview
 
-- Fire Alarm Control Panel (FACP)
-- Smoke Detector
-- Heat Detector
-- Manual Call Point (MCP)
-- Sounder / Alarm Bell
-- Strobe Light
-- Monitor Module
-- Control Module
-- Backup Battery
+A Fire Detection and Alarm System (FDAS) is a safety system designed to detect fire conditions such as smoke and heat. It provides early warning through alarm devices to help protect people and property.
 
-## Installation Process
+---
 
-### Step 1: Site Survey and Planning
+# Guide Contents
 
-- Review FDAS drawings
-- Identify device locations
-- Check cable routes
-- Identify possible fire hazards
+## 1. FDAS Components
 
-### Step 2: Cable Installation
+Learn the purpose and function of each major FDAS device.
 
-- Install approved fire alarm cables
-- Follow proper cable routing
-- Label cable ends
-- Check continuity
+[View FDAS Components](FDAS-Components.md)
 
-### Step 3: Device Installation
+---
 
-- Install smoke detectors
-- Install heat detectors
-- Install manual call points
-- Install alarm sounders and strobes
-- Connect devices to control panel
+## 2. FDAS Installation Process
 
-### Step 4: Testing and Commissioning
+Complete installation procedure from site survey, cable installation, device installation, and commissioning.
 
-- Test every device
-- Check alarm signals
-- Verify panel operation
-- Perform system inspection
+[View Installation Process](FDAS-Installation-Process.md)
 
-## Maintenance
+---
 
-- Regular device testing
-- Battery inspection
-- Check alarm history
-- Troubleshoot system faults
+## 3. FDAS Testing and Commissioning
 
-## Technician Skills
+Testing procedures to verify proper operation of FDAS devices and control panel.
+
+[View Testing Guide](FDAS-Testing.md)
+
+---
+
+## 4. FDAS Troubleshooting
+
+Common FDAS problems, possible causes, and solutions.
+
+[View Troubleshooting Guide](FDAS-Troubleshooting.md)
+
+---
+
+# Technician Skills
 
 - FDAS Installation
-- Cable Termination
-- Testing and Troubleshooting
+- Fire Alarm Cable Termination
+- Device Testing
+- Troubleshooting
 - Reading Wiring Diagrams
 - Preventive Maintenance
+
+---
+
+# Documentation Purpose
+
+This guide is created as a technical reference for learning and improving FDAS installation skills.
