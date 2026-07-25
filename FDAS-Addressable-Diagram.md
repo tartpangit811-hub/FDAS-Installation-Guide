@@ -1,0 +1,27 @@
+# Addressable FDAS Wiring Diagram
+
+This section contains sample addressable FDAS wiring diagrams for reference and learning purposes.
+
+## Diagram 1
+
+![Addressable Wiring Diagram 1](Images/Images/3MCE1AyQfShRSMu04smCvClE-xLTgXD70w0uEdtHEvBdGcBAHjDDtFhq6fQ2BhSwzAJB1iTXfTjMCLVYlt1Ijk0YCr-xrzim7-WyDDj4mRHP3wugrMDsypO0RQ37cWqGA-1K9_h2fJdf8WCC90mbMRHzklUGxrMU4mGeWzBvT48.jpeg)
+
+## Diagram 2
+
+![Addressable Wiring Diagram 2](Images/Images/FVgIgpiSwAmejjmLdSFmuxl_cBpe7YhXuW-ktqwD6eAlSGPvLiuap3Xkduh6RrOy2yldkZidM7tz5XRBoa90SijyrFl6Jkay7B3Nt_PSfVpV7G43MuEcu7yMy2TBYF8QUYuwJI3GRuSVxjC9DqG_tfF8vKWBwdYjc9bLyomcvNo.jpeg)
+
+## Diagram 3
+
+![Addressable Wiring Diagram 3](Images/Images/QWaUsciSOszzngyK8Amz59SeWnLi3OU0-Ki65QkpICcMDRlYisoF6mB19fH5WsxJZ9ckQuwsq9cAcxGFn8gHG_J3Tm1F-uA8kJLMISpmCoTgc_9z6WXaXXrh8yhI9sPibTxKnqg-QQOG42rUPF6Go5wkxmBpreaTfFXqQlVkd_s.jpeg)
+
+## Diagram 4
+
+![Addressable Wiring Diagram 4](Images/Images/RU1d08RSRDkvpqKq-HeGjmGhwsQnD58xuSg6qAf1kpyFnZDwbqizJvSKUPTv-g1a-hpUCSLY1jtKCEUXF3fyqWyon-GPZPV4SCMSzHeAi_c9jyPHKPSVsmMtGE75UIYyTvNv2wPBHoJg7_9RTOQTwVvKCMMDVNftqU4nlb3YrFc.jpeg)
+
+## Diagram 5
+
+![Addressable Wiring Diagram 5](Images/Images/coLqyVe4alrNpkIsJczuov7FZLtqY0k7w-JPwmhhoh05PoCBHFx3IIYX03r1aazUQe26dGsf86RtFeq9Qlqwg1wVR_z9PKml67xox38lOrwtlvkDY-9_NKAjZusIS4jnblKcnO4Dx0pTv4NjDib5XDANfkkkPL-1wBtW9LalAlc.jpeg)
+
+## Diagram 6
+
+![Addressable Wiring Diagram 6](Images/Images/IxYSpEw1R9C9MOituBVr2qrQGJAwTFZ1Q18YSO3Yr7ql6mEbQ7GoiUCJCoJ-wGYCCu_c5Hl5hG_-AZdI0kMcE5W8pC9kqzIJb3y1QCeiJ4HYq5htkohY2VXPqNe6QyHs6qkZpubMXI0MU7FJAY5YBmazncQc44qNHKOtdcoDQYA.jpeg)
