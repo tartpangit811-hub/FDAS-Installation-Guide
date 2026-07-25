@@ -3,7 +3,11 @@
 ## Introduction
 
 This guide provides basic knowledge and procedures for Fire Detection and Alarm System (FDAS) installation, testing, troubleshooting, and maintenance.
+### 6. Conventional FDAS Wiring Diagrams
 
+Sample conventional fire alarm system wiring diagrams for reference.
+
+[View Conventional Wiring Diagrams](FDAS-Conventional-Diagram.md)
 It is designed as a reference guide for technicians, installers, and beginners who want to understand the basic FDAS workflow.
 
 ---
