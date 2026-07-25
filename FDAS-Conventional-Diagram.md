@@ -1,0 +1,15 @@
+# Conventional FDAS Wiring Diagram
+
+This section contains sample conventional Fire Detection and Alarm System (FDAS) wiring diagrams and control panel references.
+
+## Conventional Wiring Diagram 1
+
+![Conventional Wiring Diagram 1](Images/Images/6cs0494NYd6dW6-7Rk1x0G_0nDkuWU6eDXwO5fQsJEs_0ZV3C8uYk1XCYD7kN0_HarfJdjJCr-rmpEjiZ7F42IQen7x__gVEmLI8nSRZCn59v3tOg1au2soQgWC4PxOgujDKq8wjUpPoWn_6sYCzxzxL9dpFcCQE3aSLlHCK5JwPwEnlIuwIvw7RuedBWwRe.jpeg)
+
+## Conventional Fire Alarm Control Panel
+
+![Conventional Panel](Images/Images/7xMXaslgnKKdtaBBpZWJKNoUBR9Hv9QHiiPyZ1lDfgD5U0Kv-921nwMRJJfSypFbqoGrhM5r7HETbVS09DXYnib1_e-7hz0qbD_RWuyCb1e1OKLorIUJu9-fwqAQhU63JnGokmRsjCNa74FhvIBzxCPysytzcP3Nb96YARISeaXD2iHt47LR05ijbkJq0e1_.jpeg)
+
+## Conventional Wiring Diagram 2
+
+![Conventional Wiring Diagram 2](Images/Images/NkFJpUQ3zFnaS9NhX04Z1_qJouGY3CiMPsZvxdqe0oL4sA86SK64H1u0Vcgo84I1h1nrGByiCE7FSdf-RpcbprS1sTKxcUOBY0bwMEPLSHOe8w-o3J2Vr0CLzT6qg-yq1nqhobFkALFknI0xN3w1GEl6G4Xbnr_CuqqpmOcEVUPI3nhGiCq2osQfwEkxxNoY.jpeg)
