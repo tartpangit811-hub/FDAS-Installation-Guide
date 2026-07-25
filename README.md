@@ -42,6 +42,11 @@ Testing procedures to verify proper operation of FDAS devices and control panel.
 
 ## 4. FDAS Troubleshooting
 
+### 5. Addressable FDAS Wiring Diagrams
+
+Sample addressable fire alarm system wiring diagrams for reference.
+
+[View Addressable Wiring Diagrams](FDAS-Addressable-Diagram.md)
 Common FDAS problems, possible causes, and solutions.
 
 [View Troubleshooting Guide](FDAS-Troubleshooting.md)
